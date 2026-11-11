@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HourFlow</string>
+    <string name="reminder_channel_name">Routine reminders</string>
+    <string name="reminder_channel_description">A quiet nudge before each planned block begins.</string>
+</resources>
