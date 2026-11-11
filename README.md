@@ -7,6 +7,7 @@
 Plan every hour, protect deep focus, see honest stats, and talk to an AI coach that can actually see your day.
 
 [![Download APK](https://img.shields.io/badge/Download-APK-FF6B57?style=for-the-badge&logo=android&logoColor=white)](https://github.com/barnikbhai2007/hourflow-android/releases/latest)
+[![Build](https://github.com/barnikbhai2007/hourflow-android/actions/workflows/build-apk.yml/badge.svg)](https://github.com/barnikbhai2007/hourflow-android/actions/workflows/build-apk.yml)
 [![Platform](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.0-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
